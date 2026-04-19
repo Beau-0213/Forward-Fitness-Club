@@ -1,0 +1,5 @@
+http://www.EXAMPLEDOMAIN.com/index.html
+http://www.EXAMPLEDOMAIN.com/about.html
+http://www.EXAMPLEDOMAIN.com/classes.html
+http://www.EXAMPLEDOMAIN.com/nutrition.html
+http://www.EXAMPLEDOMAIN.com/contact.html
